@@ -1,0 +1,6 @@
+﻿  pf2_1.cpp
+C:\code\pf2_1\pf2_1\pf2_1.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\code\pf2_1\pf2_1\pf2_1.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\code\pf2_1\pf2_1\pf2_1.cpp(36,34): warning C4018: '<': signed/unsigned mismatch
+C:\code\pf2_1\pf2_1\pf2_1.cpp(38,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  pf2_1.vcxproj -> C:\code\pf2_1\Debug\pf2_1.exe
