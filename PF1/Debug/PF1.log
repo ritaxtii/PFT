@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\code\ProFund\PF1\PF1\Source.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+  PF1.vcxproj -> C:\code\ProFund\PF1\Debug\PF1.exe
