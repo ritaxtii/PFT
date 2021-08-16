@@ -1,0 +1,24 @@
+﻿  pf2_2.cpp
+C:\code\pf2_1\pf2_1\pf2_2.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\code\pf2_1\pf2_1\pf2_2.cpp(25,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(33,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(35,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(44,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(52,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(53,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(54,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(55,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(66,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(72,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(73,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(74,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(75,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(76,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(77,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(93,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(94,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(95,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(96,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(104,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\code\pf2_1\pf2_1\pf2_2.cpp(105,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  pf2_1.vcxproj -> C:\code\pf2_1\Debug\pf2_1.exe
