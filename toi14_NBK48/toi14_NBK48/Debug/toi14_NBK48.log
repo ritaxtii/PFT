@@ -1,0 +1,15 @@
+﻿  Source1.cpp
+D:\HomeW\Profund\toi14_NBK48\toi14_NBK48\Source1.cpp(35,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\HomeW\Profund\toi14_NBK48\toi14_NBK48\Source1.cpp(52,16): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30037\include\utility(249,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+D:\HomeW\Profund\toi14_NBK48\toi14_NBK48\Source1.cpp(14): message : see reference to function template instantiation 'std::pair<int,int>::pair<__int64,int,0>(std::pair<__int64,int> &&) noexcept' being compiled
+D:\HomeW\Profund\toi14_NBK48\toi14_NBK48\Source1.cpp(14): message : see reference to function template instantiation 'std::pair<int,int>::pair<__int64,int,0>(std::pair<__int64,int> &&) noexcept' being compiled
+  toi14_NBK48.vcxproj -> D:\HomeW\Profund\toi14_NBK48\Debug\toi14_NBK48.exe
