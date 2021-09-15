@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\code\PFT\pf5_2\pf5_2\Source.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\code\PFT\pf5_2\pf5_2\Source.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
+  pf5_2.vcxproj -> C:\code\PFT\pf5_2\Debug\pf5_2.exe
